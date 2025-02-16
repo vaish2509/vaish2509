@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/05ce0a87-02a3-4065-8998-3569a196f1b7)
+![github-header-image](https://github.com/user-attachments/assets/d31ce03f-c12f-431f-a455-6ff3b90e166c)
 
 
 - 🌱 I’m currently learning **Java and Javascript**
