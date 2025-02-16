@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yadavvaishnavi259@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ykfv-juO-MDcPCa2U6dqOvF8Lnk-xRH7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/hwjskqykrkhj#3f866d)
 
 - ⚡ Fun fact **Otaku**
 <img align="right" alt= "coding" width= "400" src="https://64.media.tumblr.com/0050ddc8d21883f3ef330150759ed361/tumblr_n5sgadiGtZ1qfjvexo1_500.gif">
