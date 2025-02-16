@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Otaku**
 
-<img align="right" alt= "coding" width= "400" src="https://64.media.tumblr.com/0050ddc8d21883f3ef330150759ed361/tumblr_n5sgadiGtZ1qfjvexo1_500.gif">
+<img align="right" alt= "coding" width= "400" src="https://cdn.pfpfinder.com/uploads/Eren-Yeager-1702738417648.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnavi0183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi0183/" height="30" width="40" /></a>
