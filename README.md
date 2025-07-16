@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnavi0183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi0183/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/nikhilconst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nikhilconst" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nikhilconsta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nikhilconsta" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/2020b1541051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/2020b1541051" height="30" width="40" /></a>
 <a href="https://leetcode.com/nikhilconst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikhilconst/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@1346ynikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@1346ynikhil" height="30" width="40" /></a>
